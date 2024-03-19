@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": "7",
+      "name": "Emma Wilson",
+      "email": "emma@example.com",
+      "phoneNumber": "+33123456789",
+      "birthdate": "1992-09-14",
+      "citizenship": "US"
+    },
+    {
+      "id": "12",
+      "name": "William Wong",
+      "age": 34,
+      "email": "william@example.com",
+      "citizenship": "China",
+      "birthdate": "1988-08-02",
+      "phoneNumber": "+861012345678",
+      "address": "456 Elm Street"
+    },
+    {
+      "id": "22",
+      "name": "Sophia Johnson",
+      "age": 28,
+      "email": "sophia@example.com",
+      "citizenship": "United States",
+      "birthdate": "1996-05-20",
+      "phoneNumber": "+12025551234",
+      "address": "789 Oak Street"
+    },
+    {
+      "id": "48",
+      "name": "Olivia Brown",
+      "age": 25,
+      "email": "olivia@example.com",
+      "citizenship": "United Kingdom",
+      "birthdate": "1998-03-10",
+      "phoneNumber": "+442071234567",
+      "address": "567 Pine Street"
+    },
+    {
+      "id": 469,
+      "name": "John Wick",
+      "surname": "",
+      "location": "New jersey",
+      "phoneNumber": "+994 41414141",
+      "birthdate": "1989-02-01",
+      "citizenship": "United states",
+      "email": "askljdada@asda.co"
+    }
+  ]
+}
